@@ -1,0 +1,8 @@
+CREATE TABLE game (
+	id TEXT PRIMARY KEY,
+	width INT NOT NULL,
+	height INT NOT NULL,
+	score INT NOT NULL DEFAULT 0,
+	fruitX INT NOT NULL,
+	fruitY INT NOT NULL
+);
