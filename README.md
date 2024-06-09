@@ -1,6 +1,6 @@
-# URL Shortener Starter
+# Snake BE
 
-This is an Encore starter for a URL Shortener. It has two API endpoints and a PostgreSQL database to store the URL IDs and retrieve the full URL given an ID.
+This is an Encore starter for a Snake BE project. It has two API endpoints and a PostgreSQL database to create new game and validate the ticks of snake movement in game.
 
 ## Build from scratch with a tutorial
 
